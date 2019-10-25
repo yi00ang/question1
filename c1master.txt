@@ -1,1 +1,2 @@
 This file was created in commit 1 on the master branch
+This line was added in commit 2 on the feature branch
